@@ -1,0 +1,31 @@
+# CLion
+.idea/
+*.iml
+
+# CMake build directory
+cmake-build-*/
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug/Release folders
+build/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.user.*
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# CMake generated files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+Makefile
